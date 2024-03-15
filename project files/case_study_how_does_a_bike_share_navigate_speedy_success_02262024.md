@@ -1,18 +1,3 @@
----
-title: "Case study: How does a bike-share navigate speedy success?"
-author: "Adrianna"
-date: "2024-02-27"
-output: pdf_document
-urlcolor: blue
-header-includes:
-  \usepackage{fvextra}
-  \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, results = "hide")
-```
-
 # About
 This document is an a case study for the [Google Data Analytics Professional Certificate Program](https://www.coursera.org/professional-certificates/google-data-analytics?action=enroll). The case study focuses on the Cyclistic bike-share analysis case study. The case study will follow the following six steps of the data analysis process:
 
